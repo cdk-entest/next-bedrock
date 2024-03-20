@@ -11,7 +11,7 @@ const uploadToS3 = async (file: File) => {
     region: "us-east-1",
     credentials: fromCognitoIdentityPool({
       clientConfig: { region: "us-east-1" },
-      identityPoolId: "us-east-1:887c4756-e061-4fb0-a44a-cc9a6a59d96d",
+      identityPoolId: "",
       logins: {
         // [process.env.COGNITO_POOL_ID ?? ""]: idToken,
       },
