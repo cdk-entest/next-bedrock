@@ -12,6 +12,8 @@ date: 2024-01-25
 
 [video demo](https://d2cvlmmg8c0xrp.cloudfront.net/demo/next-bedrock-demo.mp4)
 
+[![screencast thumbnail](./assets/video.png)](https://d2cvlmmg8c0xrp.cloudfront.net/demo/next-bedrock-demo.mp4)
+
 ## OpenSearch
 
 - Create a OpenSearch serverless collection (AOSS)
