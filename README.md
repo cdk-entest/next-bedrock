@@ -12,7 +12,12 @@ date: 2024-01-25
 
 [video demo](https://d2cvlmmg8c0xrp.cloudfront.net/demo/next-bedrock-demo.mp4)
 
+[link demo](https://bedrock.entest.io/)
+
 [![screencast thumbnail](./assets/video.png)](https://d2cvlmmg8c0xrp.cloudfront.net/demo/next-bedrock-demo.mp4)
+
+> [!WARNING]  
+> You have to update some parameters by yourself before get it running. For example, setup data access policy for OpenSearch Serverless (AOSS) so Lambda, ESC Execution Role can query and index AOSS, etc.
 
 ## OpenSearch
 
