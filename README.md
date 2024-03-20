@@ -1,6 +1,6 @@
 ---
-title: build a simple ai app with nextjs, vercel ai sdk and deploy on apprunner
-description: build a simple ai app using nextjs, vercel ai sdk and deploy on apprunner
+title: build simple ai apps with bedrock and nextjs
+description: build ai apps using bedrock and nextjs
 author: haimtran
 publishedDate: 25/01/2024
 date: 2024-01-25
