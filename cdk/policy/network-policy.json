@@ -1,0 +1,15 @@
+[
+  {
+    "Rules": [
+      {
+        "ResourceType": "collection",
+        "Resource": ["collection/demo*"]
+      },
+      {
+        "ResourceType": "dashboard",
+        "Resource": ["collection/demo*"]
+      }
+    ],
+    "AllowFromPublic": true
+  }
+]

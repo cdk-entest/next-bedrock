@@ -1,0 +1,34 @@
+[
+  {
+    "Description": "Rule 1",
+    "Rules": [
+      {
+        "ResourceType": "collection",
+        "Resource": [
+          "collection/demo"
+        ],
+        "Permission": [
+          "aoss:CreateCollectionItems",
+          "aoss:DeleteCollectionItems",
+          "aoss:UpdateCollectionItems",
+          "aoss:DescribeCollectionItems"
+        ]
+      },
+      {
+        "ResourceType": "index",
+        "Resource": [
+          "index/demo/*"
+        ],
+        "Permission": [
+          "aoss:CreateIndex",
+          "aoss:DeleteIndex",
+          "aoss:UpdateIndex",
+          "aoss:DescribeIndex",
+          "aoss:ReadDocument",
+          "aoss:WriteDocument"
+        ]
+      }
+    ],
+    "Principal": []
+  }
+]
